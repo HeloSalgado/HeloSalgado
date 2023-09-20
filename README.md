@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Heloisa Salgado 🙋🏾‍♀️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helo-salgado-30a312284/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heloisa-salgado-30a312284/)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HeloSalgado&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=A9A9A9&bg_color=0d1117" alt="Heloisa Salgado github stats" /> 
